@@ -1,0 +1,38 @@
+export const PatientData =[
+    {
+        id:1,
+        days:12,
+        nosOfPatients:2
+    },
+    {
+        id:2,
+        days:13,
+        nosOfPatients:2
+    },
+    {
+        id:3,
+        days:14,
+        nosOfPatients:4
+    },
+    {
+        id:4,
+        days:15,
+        nosOfPatients:6
+    },
+    {
+        id:5,
+        days:16,
+        nosOfPatients:8
+    },
+    {
+        id:6,
+        days:17,
+        nosOfPatients:10
+    },
+{
+    id:7,
+    days:18,
+    nosOfPatients:12
+}
+
+]
